@@ -35,7 +35,7 @@ namespace MeetupBot
 
         static async Task Main(string[] args)
         {
-            _botClient = new TelegramBotClient("7332920725:AAGmIeIR0a2r9gFSQ0Z911CB-RIBQK-DVVg");
+            _botClient = new TelegramBotClient("Your Bot Token");
             var me = await _botClient.GetMeAsync();
             Console.WriteLine($"Bot started: {me.Username}");
 
