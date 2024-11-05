@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vodka\\MeetupBot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{293C0B82-82D5-4536-9520-70BE08AB1A69}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{293C0B82-82D5-4536-9520-70BE08AB1A69}|C:\\Users\\vodka\\MeetupBot\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{293C0B82-82D5-4536-9520-70BE08AB1A69}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{293C0B82-82D5-4536-9520-70BE08AB1A69}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FD1F7D-E00B-4D61-BB76-A55ACBFA7AE4}|MeetupBot.csproj|c:\\users\\vodka\\meetupbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6FD1F7D-E00B-4D61-BB76-A55ACBFA7AE4}|MeetupBot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6FD1F7D-E00B-4D61-BB76-A55ACBFA7AE4}|MeetupBot.csproj|c:\\users\\vodka\\meetupbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6FD1F7D-E00B-4D61-BB76-A55ACBFA7AE4}|MeetupBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vodka\\MeetupBot\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B6FD1F7D-E00B-4D61-BB76-A55ACBFA7AE4}|MeetupBot.csproj|c:\\users\\vodka\\meetupbot\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B6FD1F7D-E00B-4D61-BB76-A55ACBFA7AE4}|MeetupBot.csproj|solutionrelative:script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vodka\\MeetupBot\\bin\\Debug\\net8.0\\appsettings.json",
-              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\appsettings.json",
-              "ToolTip": "C:\\Users\\vodka\\MeetupBot\\bin\\Debug\\net8.0\\appsettings.json",
-              "RelativeToolTip": "bin\\Debug\\net8.0\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T18:18:40.129Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\vodka\\MeetupBot\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\vodka\\MeetupBot\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-05T18:07:20.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "script.sql",
+              "DocumentMoniker": "C:\\Users\\vodka\\MeetupBot\\script.sql",
+              "RelativeDocumentMoniker": "script.sql",
+              "ToolTip": "C:\\Users\\vodka\\MeetupBot\\script.sql",
+              "RelativeToolTip": "script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-31T18:04:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vodka\\MeetupBot\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vodka\\MeetupBot\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T18:00:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vodka\\MeetupBot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\vodka\\MeetupBot\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACsBAAAAAAAAAAAAAEQBAAA0AAAA",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAAD8BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:17:48.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T04:53:15.848Z"
             }
           ]
         }

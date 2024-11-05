@@ -140,3 +140,11 @@ C:\Users\vodka\MeetupBot\obj\Debug\net8.0\refint\MeetupBot.dll
 C:\Users\vodka\MeetupBot\obj\Debug\net8.0\MeetupBot.pdb
 C:\Users\vodka\MeetupBot\obj\Debug\net8.0\MeetupBot.genruntimeconfig.cache
 C:\Users\vodka\MeetupBot\obj\Debug\net8.0\ref\MeetupBot.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\Cocona.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\Cocona.Core.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\ja-JP\Cocona.resources.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\ko-KR\Cocona.resources.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\ja-JP\Cocona.Core.resources.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\ko-KR\Cocona.Core.resources.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\zh-CN\Cocona.Core.resources.dll
+C:\Users\vodka\MeetupBot\bin\Debug\net8.0\appsettings.json

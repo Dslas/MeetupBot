@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeetupBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa20e096d31c0e646fe1bdb4836da86a360e06ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e088c4d430fc7e4510a94d43d33a2d0b39e2036e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeetupBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeetupBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
